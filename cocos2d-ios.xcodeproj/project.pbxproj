@@ -60,7 +60,6 @@
 		05CA7AFE10ED674700F12774 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D500B990D5A79CF00DBA0E3 /* QuartzCore.framework */; };
 		05CA7B0010ED674700F12774 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 503092B210447296005F7AFC /* libz.dylib */; };
 		05CA7B0C10ED67CE00F12774 /* ActionsWithBlocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 05CA7B0B10ED67CE00F12774 /* ActionsWithBlocks.m */; };
-		2AB3F9BF140BD9640043B900 /* CDXPropertyModifierAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 50522A0B11B3E1E20061670F /* CDXPropertyModifierAction.h */; };
 		2AB3F9C0140BD9640043B900 /* CDXPropertyModifierAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 50522A0C11B3E1E20061670F /* CDXPropertyModifierAction.m */; };
 		3BB5C8E911410A4000DD65EF /* blocks.png in Resources */ = {isa = PBXBuildFile; fileRef = AAEA834A0FD5704400F08728 /* blocks.png */; };
 		3BB5C8EF11410A5300DD65EF /* blocks.png in Resources */ = {isa = PBXBuildFile; fileRef = AAEA834A0FD5704400F08728 /* blocks.png */; };
@@ -7848,7 +7847,6 @@
 				505224DF11B3D3A80061670F /* CDOpenALSupport.h in Headers */,
 				505224E111B3D3A80061670F /* CocosDenshion.h in Headers */,
 				505224E311B3D3A80061670F /* SimpleAudioEngine.h in Headers */,
-				2AB3F9BF140BD9640043B900 /* CDXPropertyModifierAction.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
